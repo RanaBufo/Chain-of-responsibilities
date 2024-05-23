@@ -1,0 +1,29 @@
+[
+  {
+    "ID": 0,
+    "Name": "Елизавета",
+    "Surname": "Гурченкова",
+    "Age": 19,
+    "Money": 1000.0,
+    "AccountNumber": "1234 1234 1234 1234",
+    "PinCode": "1234"
+  },
+  {
+    "ID": 1,
+    "Name": "Лола",
+    "Surname": "Иванова",
+    "Age": 19,
+    "Money": 0.0,
+    "AccountNumber": "8000 8000 9000 1000",
+    "PinCode": "1789"
+  },
+  {
+    "ID": 2,
+    "Name": "Лола",
+    "Surname": "Иванова",
+    "Age": 19,
+    "Money": 700.0,
+    "AccountNumber": "1234 5678 1234 5678",
+    "PinCode": "1583"
+  }
+]
